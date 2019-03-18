@@ -1,3 +1,4 @@
+# reddit user /u/social_nerdtastic helped inspire this one which works pretty well
 from sense_hat import SenseHat
 import time
 import threading
